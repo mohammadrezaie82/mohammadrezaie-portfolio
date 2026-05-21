@@ -12,7 +12,3 @@ I build web applications using:
 - TypeScript
 
 This is my personal portfolio website.
-
-## Live Demo
-
-https://your-site.vercel.app
